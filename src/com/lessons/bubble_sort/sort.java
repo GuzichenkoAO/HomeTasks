@@ -1,9 +1,7 @@
-package com.lessons.binary_search;
+package com.lessons.bubble_sort;
 
-public class Main {
-
+public class sort {
     public static void main(String[] args) {
-
         int[] array = {14, 12, 56, 48, 10, 1, 11, 54, 88, 15};
         int n;
         int a, b, c;
